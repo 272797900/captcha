@@ -160,6 +160,7 @@ plot_model(model, show_shapes=True)
 # 上面PIL库里面也有一个Image函数， 小心使用错误
 IPython.display.Image('model.png')
 ```
+![model.png](https://github.com/HLearning/captcha/blob/master/model.png)
 
 ## 6. 训练模型
 
